@@ -78,6 +78,7 @@
                     </view>
                     <connections>
                         <outlet property="sentimentLabel" destination="huq-gv-z7C" id="tcE-6d-w3a"/>
+                        <outlet property="textField" destination="y0X-Py-cov" id="Wpg-Kd-k17"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
